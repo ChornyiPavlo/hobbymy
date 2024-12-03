@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://hobbymy.com/sitemap.xml
+Host: hobbymy.com
